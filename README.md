@@ -5,5 +5,5 @@
 2. Developed efficient SQL queries and enforced relational constraints to maintain data integrity and optimize performance.
 
 
-Entity relationship diagram:
+### Entity relationship diagram:
 ![WhatsApp Image 2025-07-29 at 14 58 07_7507deab](https://github.com/user-attachments/assets/937c5314-fa68-4ab7-8fe8-98d3026eb654)
